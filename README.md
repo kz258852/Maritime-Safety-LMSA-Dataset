@@ -1,6 +1,6 @@
 # Maritime Safety LMSA Dataset 
 
-This repository provides anonymized sample datasets used in the LMSA framework for maritime safety management.
+This repository provides sample datasets used in the LMSA framework for maritime safety management.
 
 ## 📌 Overview
 The dataset supports research on multimodal perception and LLM-based reasoning for maritime safety, including:
