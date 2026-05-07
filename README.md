@@ -5,7 +5,7 @@ This repository provides sample datasets used in the LMSA framework for maritime
 ## 📌 Overview
 The dataset supports research on multimodal perception and LLM-based reasoning for maritime safety, including:
 - AIS trajectory data
-- Visual perception annotations
+- Visual perception data
 - Radar perception data
 - Instruction-response pairs for LLM fine-tuning
 
