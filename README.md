@@ -17,22 +17,19 @@ To facilitate reproducibility and experimental validation, partial datasets used
 - Supports trajectory analysis, anomaly detection, and vessel behavior understanding
 
 📎 Baidu Netdisk Link:  
-`[Insert AIS Dataset Link Here]`  
-Extraction Code: `[XXXX]`
+Link: https://pan.baidu.com/s/1YPf8-hcon9YHdy6j3itXuw?pwd=kz23 提取码: kz23
 
 ### 2. Visual Data
 - Supports ship detection, tracking, and multimodal perception tasks
 
 📎 Baidu Netdisk Link:  
-`[Insert Visual Dataset Link Here]`  
-Extraction Code: `[XXXX]`
+Link: https://pan.baidu.com/s/1WmR5tUWpaQECxQPev5xJ3g?pwd=kz23 提取码: kz23
 
 ### 3. Radar Data
 - Supports radar-based perception and multimodal fusion research
 
 📎 Baidu Netdisk Link:  
-`[Insert Radar Dataset Link Here]`  
-Extraction Code: `[XXXX]`
+Link: https://pan.baidu.com/s/1cCyqn_76gXFW-7guUBoL_g?pwd=kz23 提取码: kz23
 
 ### 4. Text Dataset (Alpaca Format)
 - Instruction–response pairs
@@ -40,7 +37,7 @@ Extraction Code: `[XXXX]`
 - Integrates multimodal inputs
 - Designed for maritime-domain LLM fine-tuning and agent reasoning tasks
 
-📎 Baidu Netdisk Link: (To be supplemented)
+📎 Baidu Netdisk Link: (To be supplemented) 
 `[Insert Radar Dataset Link Here]`  
 Extraction Code: `[XXXX]`
 
