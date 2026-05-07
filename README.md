@@ -14,8 +14,6 @@ To facilitate reproducibility and experimental validation, partial datasets used
 ## 📊 Dataset Components
 
 ### 1. AIS Data
-- Attributes: MMSI, timestamp, latitude, longitude, speed, heading
-- Preprocessing: noise filtering, interpolation, anomaly removal
 - Supports trajectory analysis, anomaly detection, and vessel behavior understanding
 
 📎 Baidu Netdisk Link:  
@@ -23,9 +21,6 @@ To facilitate reproducibility and experimental validation, partial datasets used
 Extraction Code: `[XXXX]`
 
 ### 2. Visual Data
-- Format: Pascal VOC
-- Includes bounding box annotations
-- Covers multiple lighting and weather conditions
 - Supports ship detection, tracking, and multimodal perception tasks
 
 📎 Baidu Netdisk Link:  
@@ -33,8 +28,6 @@ Extraction Code: `[XXXX]`
 Extraction Code: `[XXXX]`
 
 ### 3. Radar Data
-- Includes radar imaging samples and corresponding sensing results
-- Covers different maritime traffic densities and environmental conditions
 - Supports radar-based perception and multimodal fusion research
 
 📎 Baidu Netdisk Link:  
@@ -46,6 +39,10 @@ Extraction Code: `[XXXX]`
 - Includes task planning, reasoning, and tool invocation
 - Integrates multimodal inputs
 - Designed for maritime-domain LLM fine-tuning and agent reasoning tasks
+
+📎 Baidu Netdisk Link: (To be supplemented)
+`[Insert Radar Dataset Link Here]`  
+Extraction Code: `[XXXX]`
 
 ## 📍 Notes
 - The released dataset is anonymized and partially sampled due to privacy constraints.
